@@ -2,4 +2,5 @@
 Tristen L Paul and Stephen A Fleming
 
 Link to journal: https://doi.org/10.1017/S1368980023001933
-Interactive visualization:
+
+Interactive visualization: https://traversescience.com/visualizations/beef-and-brain-health-a-visual-exploration/
